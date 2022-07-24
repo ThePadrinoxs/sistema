@@ -112,7 +112,7 @@ class EmpleadosController extends Controller
     }
 
     /**
-     * Remove the specified resource from storage.
+     * Remove the specified resource from storage...
      *
      * @param  \App\Models\Empleados  $empleados
      * @return \Illuminate\Http\Response
